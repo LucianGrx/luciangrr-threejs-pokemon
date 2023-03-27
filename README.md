@@ -1,0 +1,7 @@
+# luciangrr-threejs-pokemon
+
+RO: 
+Acesta este un cod care utilizeaza biblioteca Three.js pentru a afisa o scena 3D cu personaje Pokemon animate. Scenei ii este setata o imagine de fundal si este adaugata o camera care poate fi controlata cu mouse-ul. In plus, codul incarca modele 3D ale unor personaje Pokemon precum Cosmog, Pikachu, Sobble, Bulbasaur si Lucario, care sunt adaugate la scena. Aceste personaje sunt animate cu ajutorul unor mixer-e, care controleaza miscarea si comportamentul lor. De asemenea, sunt incarcate si anumite texturi, cum ar fi o textura pentru lumina. Exista, de asemenea, si un sistem de incarcare care afiseaza o bara de progres in timp ce modelele sunt incarcate. Mai sunt si cateva functii care permit miscarea camerei in jurul scenei si alte actiuni.
+
+EN: 
+This is a code that uses the Three.js library to display a 3D scene with animated Pokemon characters. The scene has a background image set, and a camera is added that can be controlled with the mouse. Additionally, the code loads 3D models of Pokemon characters such as Cosmog, Pikachu, Sobble, Bulbasaur, and Lucario, which are added to the scene. These characters are animated using mixers, which control their movement and behavior. Certain textures, such as a texture for lighting, are also loaded. There is also a loading system that displays a progress bar while the models are being loaded. There are several functions that allow the camera to move around the scene and perform other actions.
